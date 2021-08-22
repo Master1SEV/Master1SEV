@@ -2,7 +2,6 @@
 
 https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/apiMaster1SEVanuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
 https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white
 https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white
@@ -25,6 +24,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Master1SEVanuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
 <p align='center'>
    <a href="https://github-readme-stats.vercel.app/api?username=romankh3&show_icons=true&count_private=true">
