@@ -46,8 +46,9 @@
 
 <p align='center'>
 🐶 My pet-projects
-     Relax Me
+</p>
+<p align='center'>
+Relax Me
  https://master1sev.github.io/
      About^
-      
-</p>
+      </p>
