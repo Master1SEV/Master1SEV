@@ -1,7 +1,9 @@
 ### Hi there 👋
 
 https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
-
+<a href="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+       <img height=150 src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
 https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white
 https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white
@@ -28,7 +30,9 @@ Here are some ideas to get you started:
 
 <p align='center'>
    <a href="https://github-readme-stats.vercel.app/api?username=Master1SEV&show_icons=true&count_private=true">
-       <img height=150 src="https://github-readme-stats.vercel.app/api?username=Master1SEV&show_icons=true&count_private=true"/></a>
+       <img height=150 src="https://github-readme-stats.vercel.app/api?username=Master1SEV&show_icons=true&count_private=true"/>
+   </a>
    <a href="https://github.com/romankh3/github-readme-stats">
-       <img height=150 src="https://github-readme-stats.vercel.app/api/top-langs/?username=Master1SEV&layout=compact"/></a>
+       <img height=150 src="https://github-readme-stats.vercel.app/api/top-langs/?username=Master1SEV&layout=compact"/>
+   </a>
 </p>
