@@ -20,14 +20,14 @@
        <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white"/>
 </a>
 
-♥
+<p align='center'> ♥
 <a href="">
        <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>
 </a>
 <a href="">
        <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white"/>
 </a>
-
+</p>
 
 <!--
 **Master1SEV/Master1SEV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
