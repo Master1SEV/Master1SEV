@@ -1,7 +1,7 @@
 <p align='center'>
-►
+•
       Hi there 👋 I'm Eugene
-      ◄
+      •
 </p>
 <p align='center'>
        
