@@ -24,11 +24,12 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Master1SEVanuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+- 
+https://github-readme-stats.vercel.app/api?username=Master1SEVanuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
 <p align='center'>
-   <a href="https://github-readme-stats.vercel.app/api?username=romankh3&show_icons=true&count_private=true">
-       <img height=150 src="https://github-readme-stats.vercel.app/api?username=romankh3&show_icons=true&count_private=true"/></a>
+   <a href="https://github-readme-stats.vercel.app/api?username=Master1SEV&show_icons=true&count_private=true">
+       <img height=150 src="https://github-readme-stats.vercel.app/api?username=Master1SEV&show_icons=true&count_private=true"/></a>
    <a href="https://github.com/romankh3/github-readme-stats">
-       <img height=150 src="https://github-readme-stats.vercel.app/api/top-langs/?username=romankh3&layout=compact"/></a>
+       <img height=150 src="https://github-readme-stats.vercel.app/api/top-langs/?username=Master1SEV&layout=compact"/></a>
 </p>
