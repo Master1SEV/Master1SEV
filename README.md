@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+<p align='center'>
 https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
 
 
@@ -11,7 +11,8 @@ https://img.shields.io/badge/polywork-543DE0?style=for-the-badge&logo=polywork&l
 https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white
 https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white
 
-
+</p>
+<!--
 **Master1SEV/Master1SEV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -24,8 +25,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-- 
-https://github-readme-stats.vercel.app/api?username=Master1SEVanuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+-->
 
 <p align='center'>
    <a href="https://github-readme-stats.vercel.app/api?username=Master1SEV&show_icons=true&count_private=true">
