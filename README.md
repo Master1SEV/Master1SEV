@@ -1,7 +1,4 @@
-<p> <img src="https://github.com/Master1SEV/Master1SEV/blob/main/header-bg.jpg" alt="foo" title="title" /></p>
 
-
-<body>
 <p align='center'>
 •
       Hi there 👋 I'm Eugene
