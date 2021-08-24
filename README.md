@@ -44,7 +44,7 @@
 </p>
 <p align='center'>
    <a href="https://github.com/romankh3/github-readme-stats">
-       <img height=150 src="https://github-readme-stats.vercel.app/api/top-langs/?username=Master1SEV&langs_count=10&layout=compact"/>
+       <img height=150 src="https://github-readme-stats.vercel.app/api/top-langs/?username=Master1SEV&langs_count=10&layout=compact&hide=PHP"/>
    </a>
 </p>
 
