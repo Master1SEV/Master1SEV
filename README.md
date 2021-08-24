@@ -37,9 +37,6 @@
 </a>
 </p>
 
-
-
-
 <p align='center'>
    <a href="https://github-readme-stats.vercel.app/api?username=Master1SEV&show_icons=true&count_private=true">
        <img height=150 src="https://github-readme-stats.vercel.app/api?username=Master1SEV&show_icons=true&count_private=true&theme=vue"/>
@@ -49,12 +46,10 @@
    </a>
 </p>
 
-<p align='center'>
-<img  src=https://user-images.githubusercontent.com/20966308/130607410-a536816e-5b10-4de9-be62-2ab32da1e645.png" />
-</p>
+
 
 <p align='center'>
-•My portfolio
+My portfolio
 </p>
 <p align='center'>
 http://master1sev.portfolio.github.io/
