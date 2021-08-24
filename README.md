@@ -49,17 +49,16 @@
 </p>
 
 <p align='center'>
-🐶 My pet-projects
+      ‼Work in progress
+•My portfolio
 </p>
 <p align='center'>
 Relax Me
- https://master1sev.github.io/
-     About^
-      </p>
-
+http://master1sev.portfolio.github.io/
+</p>
 
 <p align='center'>
-🐶 My pet-projects
+•My pet-projects
 </p>
 <p align='center'>
 Relax Me
