@@ -48,11 +48,9 @@
    </a>
 </p>
 
+![image](https://user-images.githubusercontent.com/20966308/130607410-a536816e-5b10-4de9-be62-2ab32da1e645.png)
 
-       ![image](https://user-images.githubusercontent.com/20966308/130607410-a536816e-5b10-4de9-be62-2ab32da1e645.png)
-
-
-      <p align='center'>
+<p align='center'>
 •My portfolio
 </p>
 <p align='center'>
