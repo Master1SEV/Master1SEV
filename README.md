@@ -50,10 +50,11 @@
 
 <p align='center'>
       ‼Work in progress
+      </p>
+      <p align='center'>
 •My portfolio
 </p>
 <p align='center'>
-Relax Me
 http://master1sev.portfolio.github.io/
 </p>
 
