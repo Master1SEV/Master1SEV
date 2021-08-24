@@ -44,9 +44,12 @@
 </p>
 <p align='center'>
    <a href="https://github.com/romankh3/github-readme-stats">
-       <img height=150 src="https://github-readme-stats.vercel.app/api/top-langs/?username=Master1SEV&langs_count=10"/>
+       <img height=150 src="https://github-readme-stats.vercel.app/api/top-langs/?username=Master1SEV&langs_count=10&layout=compact"/>
    </a>
 </p>
+
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Master1SEV)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Master1SEV&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
 
 <p align='center'>
 My portfolio
