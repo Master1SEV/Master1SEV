@@ -1,9 +1,5 @@
-<head>
-    <meta charset='utf-8'>
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
-    <link rel="stylesheet" href="https://github.com/Master1SEV/Master1SEV/blob/main/style.css" media="screen" type="text/css">
-</head>
+<p> <img src="https://github.com/Master1SEV/Master1SEV/blob/main/header-bg.jpg" alt="foo" title="title" /></p>
+
 
 <body>
 <p align='center'>
