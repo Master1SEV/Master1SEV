@@ -41,12 +41,12 @@
    <a href="https://github-readme-stats.vercel.app/api?username=Master1SEV&show_icons=true&count_private=true">
        <img height=150 src="https://github-readme-stats.vercel.app/api?username=Master1SEV&show_icons=true&count_private=true&theme=vue"/>
    </a>
+</p>
+<p align='center'>
    <a href="https://github.com/romankh3/github-readme-stats">
-       <img height=150 src="https://github-readme-stats.vercel.app/api/top-langs/?username=Master1SEV&layout=compact"/>
+       <img height=150 src="https://github-readme-stats.vercel.app/api/top-langs/?username=Master1SEV&langs_count=10"/>
    </a>
 </p>
-
-
 
 <p align='center'>
 My portfolio
