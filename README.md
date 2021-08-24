@@ -1,3 +1,12 @@
+<html lang="en-US">
+  <head>
+    <meta charset='utf-8'>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+    <link rel="stylesheet" href="/master1sev.portfolio.github.io/assets/css/style.css?v=68ac465475f8f8c821e8f49303a5a834143ee063" media="screen" type="text/css">
+        
+      </head>
+<body>
 <p align='center'>
 •
       Hi there 👋 I'm Eugene
@@ -69,3 +78,4 @@ Relax Me
       <p align='center'>
      About^
       </p>
+ </body>
