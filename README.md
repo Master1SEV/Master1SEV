@@ -1,5 +1,5 @@
 <p align='center'>
-• Hi there 👋 I'm Eugene •
+Hi everyone👋</p><p align='center'>•  I'm Eugene •
 </p>
 <p align='center'>
        
