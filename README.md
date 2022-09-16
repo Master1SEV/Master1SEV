@@ -7,9 +7,6 @@
     <a href="https://kutt.it/SVL5As">
         <img src="https://img.shields.io/badge/polywork-543DE0?style=for-the-badge&logo=polywork&logoColor=white"/>
     </a>
-    <a href="https://kutt.it/rbvxT">
-        <img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white"/>
-    </a>
     <a href="https://kutt.it/lIcdCY">
         <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
     </a>
