@@ -18,9 +18,6 @@
     <a href="">
         <img src="https://img.shields.io/badge/RStudio-75AADB?style=for-the-badge&logo=RStudio&logoColor=white"/>
     </a>
-    <a href="">
-        <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white"/>
-    </a>
 </p>
 
 <p align='center'>
