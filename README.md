@@ -4,15 +4,11 @@
     <a href="https://kutt.it/U5Jcqh">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
     </a>
-    <a href="https://kutt.it/SVL5As">
-        <img src="https://img.shields.io/badge/polywork-543DE0?style=for-the-badge&logo=polywork&logoColor=white"/>
-    </a>
+
     <a href="https://kutt.it/lIcdCY">
         <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
     </a>
-    <a href="https://kutt.it/hRu2vi">
-        <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white"/>
-    </a>
+
 </p>
 
 <p align='center'> </p>
