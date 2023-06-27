@@ -1,7 +1,7 @@
-<p align='center'> Hi everyone 👋 </p>
-<p align='center'>• I'm Eugene • </p>
+<p align='center'>Hi everyone 👋</p>
+<p align='center'>I'm Eugene</p>
 <p align='center'>      
-    <a href="https://kutt.it/U5Jcqh">
+    <a href="https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwizrIzQqeP_AhUiCBAIHctbD4AQFnoECAwQAQ&url=https%3A%2F%2Fru.linkedin.com%2Fin%2Fesuntsov&usg=AOvVaw39a9zcnkzdAS_LGpn-HwkL&opi=89978449">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
     </a>
     <a href="https://kutt.it/lIcdCY">
